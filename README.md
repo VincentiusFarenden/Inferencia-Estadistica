@@ -80,4 +80,4 @@ O si usas Google Colab, pega esto en una celda al inicio del notebook:
 
 ## Autor
 
-**Vincent Farenden** — Ingeniería Informática, DuocUC San Carlos de Apoquindo
+**Vincent Farenden** — Ingeniería Informática, DuocUC
